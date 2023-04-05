@@ -1,4 +1,4 @@
-# The repo is ongoing and will be done before May, 2023
+# The GitHub repository is currently under development. and will be done before May, 2023
 # DataScience-MachineLearning
  My understanding of Data Science and Machine Learning
  
