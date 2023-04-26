@@ -17,7 +17,7 @@ This data science course covers algorithms from supervised learning, unsupervise
 
 # Introduction to Data Science and Machine Learning
 
-This repository constains all projects created in the course INDE-577, which provides Data Science and Machine Learning concepts, techniques and hands-on experiences. The purpose of this document is to provide an overview of the content included in this repository and to explain how to use it.
+This repository constains all projects created in the course INDE-577, which provides **Data Science and Machine Learning** concepts, techniques and hands-on experiences. The purpose of this document is to provide a brief introduction to data science and machine learning and an overview of the content included in this repository.
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ Data Science and Machine Learning are becoming increasingly important as organiz
 
 This repository is open to contributions from the community. I will also keep it updated with my learning and practices. 
 
-## Machine Learning Contents
+# Machine Learning Algorithms
 
 - **Supervised Learning**:
     - Model Building and Error Analysis
@@ -64,7 +64,7 @@ This repository is open to contributions from the community. I will also keep it
 - **Reinforcement Learning**:
     - Tabular versus Deep Learning Methods
 
-## Resources
+# Resources
 ### Programming Languages
 - [Python](https://www.python.org/)
 - [R](https://www.r-project.org/)
@@ -90,7 +90,7 @@ This repository is open to contributions from the community. I will also keep it
 - [PyTorch](https://pytorch.org/)
 ### Learning Resources
 - [Kaggle](https://www.kaggle.com/)
-- [TowardsDataScience](https://towardsdatascience.com/))
+- [TowardsDataScience](https://towardsdatascience.com/)
 ### Environments
 - [Anaconda](https://www.anaconda.com/)
 - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
