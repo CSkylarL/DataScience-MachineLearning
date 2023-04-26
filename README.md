@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction to Data Science and Machine Learning
 
 This repository provides an introduction to Data Science and Machine Learning concepts and techniques. The purpose of this document is to provide an overview of the content included in this repository and to explain how to use it.
@@ -35,3 +36,18 @@ To use these resources, you will need to have Python installed on your computer.
 ## Contributing
 
 This repository is open to contributions from the community. If you have any suggestions for new content, improvements to existing content, or other ideas, please feel free to submit a pull request. Before submitting a pull request, please read the CONTRIBUTING.md file for guidelines on how to contribute.
+=======
+# The GitHub repository is currently under development. and will be done before May, 2023
+# DataScience-MachineLearning
+ My understanding of Data Science and Machine Learning
+ 
+# Course: 
+
+**INDE577**: Data Science and Machine Learning (Rice University)
+
+**Instructor**: Dr. Randy Davila
+
+**Course Materials**: 
+
+1. [Lectures](INDE577_Lectures_RandyRDavila/). I added some notes on the file
+>>>>>>> cddcfcf25c65247c9191129722e63d972518ad1c
