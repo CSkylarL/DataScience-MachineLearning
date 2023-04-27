@@ -1,4 +1,4 @@
-![Cover Picture](repo_cover.png)
+![Cover Picture](./assets/images/repo_cover.png)
 # Course: 
 
 **INDE-577**: Data Science and Machine Learning (Rice University)
