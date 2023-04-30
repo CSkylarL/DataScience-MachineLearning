@@ -7,8 +7,7 @@
 
 **Course Description**: 
 
-This data science course covers algorithms from supervised learning, unsupervised learning, and reinforcement learning. We will implement many of the machine learning algorithms from scratch in python, but will also make use of, Scikit-Learn, Keras, and Tensorflow.
-
+This data science course covers algorithms from supervised learning, unsupervised learning, and reinforcement learning. We will implement many of the machine learning algorithms from scratch in python, but will also make use of, Scikit-Learn, Keras, and Tensorflow. ChatGPT is also a special focus of this semester.
 **Textbook**:
 
 * (Required) Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
