@@ -6,7 +6,7 @@ Unsupervised learning is a category of machine learning algorithms that operate 
 
 Clustering algorithms group data points into distinct clusters based on their similarity. The goal is to separate the data such that data points in the same cluster are as similar as possible, while data points in different clusters are as dissimilar as possible. Examples of clustering algorithms include:
 - [**K-means**](./Kmeans.ipynb): A centroid-based algorithm that partitions data into K clusters, minimizing the sum of squared distances between data points and their respective cluster centroids.
-- [**DBSCAN**](./DBSCN.ipynb): A density-based clustering algorithm that groups together data points that are closely packed together, marking low-density areas as noise.
+- [**DBSCAN**](./DBSCAN.ipynb): A density-based clustering algorithm that groups together data points that are closely packed together, marking low-density areas as noise.
 - **Hierarchical Clustering Analysis (HCA)**: A family of algorithms that build nested clusters by merging or splitting groups of data points, forming a tree-like structure.
 - **Mean Shift**: A non-parametric, density-based clustering algorithm that identifies clusters based on the mode (peak) of the underlying probability density function.
 - **OPTICS**: A density-based clustering algorithm similar to DBSCAN, but with the ability to handle datasets with varying densities.
