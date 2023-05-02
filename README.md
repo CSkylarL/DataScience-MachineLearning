@@ -14,7 +14,7 @@ This data science course covers algorithms from supervised learning, unsupervise
 * (Recommended Supplemental Reading) Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
 
 
-# Introduction to Data Science and Machine Learning
+# Introduction to Data Science and Machine Learning repository
 
 This repository constains all projects created in the course INDE-577, which provides **Data Science and Machine Learning** concepts, techniques and hands-on experiences. The purpose of this document is to provide a brief introduction to data science and machine learning and an overview of the content included in this repository.
 
@@ -23,8 +23,9 @@ This repository constains all projects created in the course INDE-577, which pro
 - [What is Data Science?](#what-is-data-science)
 - [What is Machine Learning?](#what-is-machine-learning)
 - [Why is Data Science and Machine Learning Important?](#why-is-data-science-and-machine-learning-important)
-- [Getting Started](#getting-started)
+- [Repository Content](#repository-content)
 - [Contributing](#contributing)
+- [LICENSE](#license)
 
 ## What is Data Science?
 
@@ -38,30 +39,21 @@ Machine Learning is a subfield of Artificial Intelligence that involves building
 
 Data Science and Machine Learning are becoming increasingly important as organizations seek to leverage the value of their data. By analyzing and interpreting data, businesses can gain insights that help them make better decisions, improve operations, and create new products and services. Machine Learning is particularly valuable because it can enable organizations to automate processes and make predictions that were previously difficult or impossible to make.
 
+## Repository Content
 
+This repository contains the following folders:
+- [**assets**](./assets): Contains images and other assets used in this README and jupyter notebook file.
+- [**data**](./data): Contains data and description used in this repository.
+- [**algorithms**](./algorithms): Contains detailed description and implementation of machine learning algorithms.
+- [**practice**](./practice): Contains projects and practices of data science and machine learning.
+- 
 ## Contributing
 
 This repository is open to contributions from the community. I will also keep it updated with my learning and practices. 
 
-# Machine Learning Algorithms
+## LICENSE
 
-- **Supervised Learning**:
-    - Model Building and Error Analysis
-    - Linear Regression
-    - Gradient Descent
-    - Logistic Regression
-    - Neural Nets
-    - Support Vector Machines
-    - k-Nearest Neighbors
-    - Decision/ Regression Trees
-    - Ensemble Learning
-
-- **Unsupervised Learning**:
-    - k-Means Clustering
-    - Principle Component Analysis
-
-- **Reinforcement Learning**:
-    - Tabular versus Deep Learning Methods
+This repository is licensed under the GPL-3 License. See [LICENSE](./LICENSE) for more information.
 
 # Resources
 ### Programming Languages
