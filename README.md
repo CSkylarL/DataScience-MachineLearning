@@ -14,7 +14,7 @@ This data science course covers algorithms from supervised learning, unsupervise
 * (Recommended Supplemental Reading) Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
 
 
-# Introduction to Data Science and Machine Learning repository
+# Introduction to Data Science and Machine Learning Repository
 
 This repository constains all projects created in the course INDE-577, which provides **Data Science and Machine Learning** concepts, techniques and hands-on experiences. The purpose of this document is to provide a brief introduction to data science and machine learning and an overview of the content included in this repository.
 
@@ -44,9 +44,13 @@ Data Science and Machine Learning are becoming increasingly important as organiz
 This repository contains the following folders:
 - [**assets**](./assets): Contains images and other assets used in this README and jupyter notebook file.
 - [**data**](./data): Contains data and description used in this repository.
-- [**algorithms**](./algorithms): Contains detailed description and implementation of machine learning algorithms.
+- [**algorithm**](./algorithms): Contains detailed description and implementation of machine learning algorithms.
 - [**practice**](./practice): Contains projects and practices of data science and machine learning.
-- 
+- [**requirements.txt**](./requirements.txt): Contains all the packages and libraries used in this repository (except for Jupiter Notebook and Tensorflow).
+- [requirements_colab.txt](./requirements_colab.txt): I run algorithms with Tensorflos using Google Colab, so this file contains all the packages and libraries used in Google Colab.
+- [LICENSE](./LICENSE): License file for this repository.
+- [README.md](./README.md): This README file.
+
 ## Contributing
 
 This repository is open to contributions from the community. I will also keep it updated with my learning and practices. 
