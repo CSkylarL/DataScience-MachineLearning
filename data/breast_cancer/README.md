@@ -4,6 +4,6 @@ The Breast Cancer Wisconsin (Diagnostic) dataset contains features computed from
 
 This folder contains the following files:
 - [Data](./breast_cancer.csv): The dataset in `.csv` format.
-- [Data Description](./breast_cancer_description.ipynb): A Jupyter notebook providing comprehensive details about the background, creation process, and distinct characteristics of the data.
+- [Data Description](./breast_cancer.ipynb): A Jupyter notebook providing comprehensive details about the background, creation process, and distinct characteristics of the data.
 
 
