@@ -59,7 +59,7 @@ This repository is open to contributions from the community. I will also keep it
 
 This repository is licensed under the GPL-3 License. See [LICENSE](./LICENSE) for more information.
 
-# Resources
+# Useful Resources
 ### Programming Languages
 - [Python](https://www.python.org/)
 - [R](https://www.r-project.org/)
