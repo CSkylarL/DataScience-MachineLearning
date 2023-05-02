@@ -1,96 +1,16 @@
-![Cover Picture](./assets/images/repo_cover.png)
-# Course: 
 
-**INDE-577**: Data Science and Machine Learning (Rice University)
+# Data
 
-**Instructor**: Dr. Randy Davila
+This folder encompasses various datasets employed throughout this repository. Each dataset is stored in either `.csv` or `.npy` formats. Alongside the datasets, a Jupyter notebook is included which provides comprehensive details about the background, creation process, and distinct characteristics of the corresponding data. 
 
-**Course Description**: 
+The dataset is as follows:
 
-This data science course covers algorithms from supervised learning, unsupervised learning, and reinforcement learning. We will implement many of the machine learning algorithms from scratch in python, but will also make use of, Scikit-Learn, Keras, and Tensorflow. ChatGPT is also a special focus of this semester.
-**Textbook**:
-
-* (Required) Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
-* (Recommended Supplemental Reading) Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
-
-
-# Introduction to Data Science and Machine Learning Repository
-
-This repository constains all projects created in the course INDE-577, which provides **Data Science and Machine Learning** concepts, techniques and hands-on experiences. The purpose of this document is to provide a brief introduction to data science and machine learning and an overview of the content included in this repository.
-
-## Table of Contents
-
-- [What is Data Science?](#what-is-data-science)
-- [What is Machine Learning?](#what-is-machine-learning)
-- [Why is Data Science and Machine Learning Important?](#why-is-data-science-and-machine-learning-important)
-- [Repository Content](#repository-content)
-- [Contributing](#contributing)
-- [LICENSE](#license)
-
-## What is Data Science?
-
-Data Science is a field that involves the collection, analysis, and interpretation of data. It combines elements of `statistics`, `computer science`, and `domain expertise` to extract insights and knowledge from data. Data scientists use a variety of tools and techniques to work with data, including programming languages, data visualization tools, and machine learning algorithms.
-
-## What is Machine Learning?
-
-Machine Learning is a subfield of Artificial Intelligence that involves building algorithms that can learn from data. These algorithms are designed to **automatically** improve their performance on a specific task through experience. Machine Learning can be used for a wide range of applications, including image recognition, natural language processing, and predictive analytics.
-
-## Why is Data Science and Machine Learning Important?
-
-Data Science and Machine Learning are becoming increasingly important as organizations seek to leverage the value of their data. By analyzing and interpreting data, businesses can gain insights that help them make better decisions, improve operations, and create new products and services. Machine Learning is particularly valuable because it can enable organizations to automate processes and make predictions that were previously difficult or impossible to make.
-
-## Repository Content
-
-This repository contains the following folders:
-- [**assets**](./assets): Contains images and other assets used in this README and jupyter notebook file.
-- [**data**](./data): Contains data and description used in this repository.
-- [**algorithm**](./algorithm): Contains detailed description and implementation of machine learning algorithms.
-- [**practice**](./practice): Contains projects and practices of data science and machine learning.
-- [**requirements.txt**](./requirements.txt): Contains all the packages and libraries used in this repository (except for Jupiter Notebook and Tensorflow).
-- [requirements_colab.txt](./requirements_colab.txt): I run algorithms with Tensorflos using Google Colab, so this file contains all the packages and libraries used in Google Colab.
-- [LICENSE](./LICENSE): License file for this repository.
-- [README.md](./README.md): This README file.
-
-## Contributing
-
-This repository is open to contributions from the community. I will also keep it updated with my learning and practices. 
-
-## LICENSE
-
-This repository is licensed under the GPL-3 License. See [LICENSE](./LICENSE) for more information.
-
-# Useful Resources
-### Programming Languages
-- [Python](https://www.python.org/)
-- [R](https://www.r-project.org/)
-- [Julia](https://julialang.org/)
-### Integrated Development Environments (IDEs)
-- [Jupyter Notebook](https://jupyter.org/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [PyCharm](https://www.jetbrains.com/pycharm/)
-- [RStudio](https://rstudio.com/)
-- [Julia](https://julialang.org/)
-### Version Control
-- [Github](https://github.com/)
-### Data Visualization
-- [Matplotlib](https://matplotlib.org/)
-- [Seaborn](https://seaborn.pydata.org/)
-- [Plotly](https://plotly.com/)
-- [ggplot2](https://ggplot2.tidyverse.org/)
-- [Shiny](https://shiny.rstudio.com/)
-### Machine Learning
-- [Scikit-Learn](https://scikit-learn.org/stable/)
-- [Tensorflow](https://www.tensorflow.org/)
-- [Keras](https://keras.io/)
-- [PyTorch](https://pytorch.org/)
-### Learning Resources
-- [Kaggle](https://www.kaggle.com/)
-- [TowardsDataScience](https://towardsdatascience.com/)
-### Environments
-- [Anaconda](https://www.anaconda.com/)
-- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
-- [Python venv](https://docs.python.org/3/library/venv.html)
-### Cloud Computing
-- [Amazon Web Services](https://aws.amazon.com/)
-- [Google Cloud Platform](https://cloud.google.com/)
-- [Microsoft Azure](https://azure.microsoft.com/en-us/)
+- [Iris](./iris/): The Iris dataset is a classic dataset for classification, machine learning, and data visualization, consisting of measurements of four features (sepal length, sepal width, petal length, petal width) of three types of iris flowers (Setosa, Versicolour, and Virginica).
+- [Wine](./wine/): The Wine dataset is a classic multi-class classification dataset that consists of 13 features that are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars.
+- [Digits](./digits/): The Digits dataset is made up of 1,797 8x8 images of hand-written digits, useful for teaching image classification techniques.
+- [Fashion MNIST](./fashion_mnist/): Fashion MNIST is a dataset of Zalando's article images, consisting of a training set of 60,000 examples and a test set of 10,000 examples, each example is a 28x28 grayscale image, associated with a label from 10 classes.
+- [Breast Cancer](./breast_cancer/): The Breast Cancer Wisconsin (Diagnostic) dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass, useful for binary classification problems.
+- [Lung Cancer](./lung_cancer/): The Lung Cancer dataset consists of immune marker gene expressions of 58 patients having Lung Adenocarcinoma (LUAD). Each patient has paired normal and primary tumors. I generated this dataset from the original dataset available at [Broad Institute's Genome Data Analysis Center (GDAC)  Firehose](https://gdac.broadinstitute.org/). This dataset is useful for binary classification, feature selection, and dimensionality reduction tasks.
+- [Stroke](./stroke/): The Stroke dataset contains comprehensive clinical data of patients and their stroke status, used to predict the likelihood of a patient having a stroke based on input parameters like gender, age, various diseases, and smoking status.
+- [California Housing](./california_housing/): The California Housing dataset serves regression tasks, it comprises of the census data of California housing, containing features like population, median income, median housing price, etc. for blocks group in California.
+- [Make Moon, Blob and Circle](./make_moon_blob_circle.ipynb): This notebook focuses on generating artificial datasets for binary classification or clustering tasks using the sklearn.datasets module. The generated datasets can be used to visualize and gain insights into the performance of different algorithms.
