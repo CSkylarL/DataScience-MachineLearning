@@ -1,4 +1,4 @@
-# practice
+# Practice
 
 This folder contains projects and practices of data science and machine learning.
 
