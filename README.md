@@ -44,7 +44,7 @@ Data Science and Machine Learning are becoming increasingly important as organiz
 This repository contains the following folders:
 - [**assets**](./assets): Contains images and other assets used in this README and jupyter notebook file.
 - [**data**](./data): Contains data and description used in this repository.
-- [**algorithm**](./algorithms): Contains detailed description and implementation of machine learning algorithms.
+- [**algorithm**](./algorithm): Contains detailed description and implementation of machine learning algorithms.
 - [**practice**](./practice): Contains projects and practices of data science and machine learning.
 - [**requirements.txt**](./requirements.txt): Contains all the packages and libraries used in this repository (except for Jupiter Notebook and Tensorflow).
 - [requirements_colab.txt](./requirements_colab.txt): I run algorithms with Tensorflos using Google Colab, so this file contains all the packages and libraries used in Google Colab.
