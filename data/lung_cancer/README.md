@@ -6,5 +6,5 @@ The Lung Cancer dataset consists of immune marker gene expressions of 58 patient
 This folder contains the following files:
 - Data
     - [RSEM_gene_expression](./RSEM_gene_expression.csv): The gene expression data in `.csv` format.
-    - [labels](./labels.csv): The labels of the data in `.csv` format.
+    - [Labels](./label.csv): The labels of the data in `.csv` format.
 - [Data Description](./lung_cancer.ipynb): A Jupyter notebook providing comprehensive details about the background, creation process, and distinct characteristics of the data.
