@@ -36,11 +36,11 @@ In addition to the type of supervision, machine learning algorithms can also be 
 **Parametric vs Nonparametric Learning**: Parametric learning algorithms make assumptions about the underlying data and learn a model with a fixed number of parameters. Nonparametric learning algorithms, on the other hand, make no assumptions about the underlying data and learn a model with a number of parameters that grows with the size of the training data. Parametric learning is more appropriate for problems with a small amount of training data, while nonparametric learning is suitable for problems with a large amount of training data.
 
 
-Understanding the type of learning method to apply for a specific problem is essential as it can greatly impact the model's performance. `This repository will focuses on [supervised](./supervised_machine_learning/) and [unsupervised](./unsupervised_machine_learning/) learning algorithms, as they are the most commonly used in practice. It contains examples and explanations of various machine learning algorithms, demonstrating their capabilities and limitations in solving different types of problems.`
+Understanding the type of learning method to apply for a specific problem is essential as it can greatly impact the model's performance. This repository will focuses on [supervised](./supervised_machine_learning/) and [unsupervised](./unsupervised_machine_learning/) learning algorithms, as they are the most commonly used in practice. It contains examples and explanations of various machine learning algorithms, demonstrating their capabilities and limitations in solving different types of problems.
 
 ## Optimization Methods in Machine Learning
 
-Optimization methods play a crucial role in machine learning, as they are used to minimize the loss function or error of the learning algorithms. These methods help to find the optimal set of parameters for a given model, resulting in the best possible performance on the given task. Some popular optimization techniques used in machine learning include:
+[Optimization methods](./optimization_algorithm/) play a crucial role in machine learning, as they are used to minimize the loss function or error of the learning algorithms. These methods help to find the optimal set of parameters for a given model, resulting in the best possible performance on the given task. Some popular optimization techniques used in machine learning include:
 
 1. **Gradient Descent**: Gradient descent is a first-order optimization algorithm that iteratively adjusts the model's parameters in the direction of the steepest decrease in the loss function. It is a widely-used optimization method for various machine learning algorithms, particularly in deep learning. There are several variants of gradient descent:
     - **Batch Gradient Descent**: The gradient is computed using the entire dataset, which can be slow for large datasets but provides accurate parameter updates.
@@ -57,5 +57,5 @@ Optimization methods play a crucial role in machine learning, as they are used t
 
 6. **Particle Swarm Optimization (PSO)**: Particle swarm optimization is a population-based optimization technique inspired by the social behavior of bird flocks or fish schools. In PSO, a swarm of particles move through the search space, adjusting their positions based on their own and their neighbors' best-known positions.
 
-Understanding and selecting the appropriate optimization method for a specific machine learning problem is essential for achieving the best possible performance. `Currently, this repository includes examples and explanations of **Gradient Descent** and their applications in machine learning.` I will be adding more optimization methods in the future.
+Understanding and selecting the appropriate optimization method for a specific machine learning problem is essential for achieving the best possible performance. Currently, this repository includes examples and explanations of [**Gradient Descent**](./optimization_algorithm/gradient_descent.ipynb) and their applications in machine learning. I will be adding more optimization methods in the future.
 
