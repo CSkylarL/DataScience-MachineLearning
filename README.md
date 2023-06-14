@@ -47,7 +47,7 @@ This repository is licensed under the GPL-3 License. See [LICENSE](./LICENSE) fo
 
 
 # Useful Resources
-# Relevant Course: 
+### Relevant Course: 
 - Data Science and Machine Learning (INDE-577, Rice University)
 
     - **Instructor**: Dr. Randy Davila
