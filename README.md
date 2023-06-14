@@ -1,18 +1,4 @@
 ![Cover Picture](./assets/images/repo_cover.png)
-# Course: 
-
-**INDE-577**: Data Science and Machine Learning (Rice University)
-
-**Instructor**: Dr. Randy Davila
-
-**Course Description**: 
-
-This data science course covers algorithms from supervised learning, unsupervised learning, and reinforcement learning. We will implement many of the machine learning algorithms from scratch in python, but will also make use of, Scikit-Learn, Keras, and Tensorflow. ChatGPT is also a special focus of this semester.
-**Textbook**:
-
-* (Required) Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
-* (Recommended Supplemental Reading) Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
-
 
 # Introduction to Data Science and Machine Learning Repository
 
@@ -59,7 +45,15 @@ This repository is open to contributions from the community. I will also keep it
 
 This repository is licensed under the GPL-3 License. See [LICENSE](./LICENSE) for more information.
 
+
 # Useful Resources
+# Relevant Course: 
+- Data Science and Machine Learning (INDE-577, Rice University)
+
+    - **Instructor**: Dr. Randy Davila
+    - **Course Description**: This data science course covers algorithms from supervised learning, unsupervised learning, and reinforcement learning. We will implement many of the machine learning algorithms from scratch in python, but will also make use of, Scikit-Learn, Keras, and Tensorflow. ChatGPT is also a special focus of this semester.
+    - **Textbook**: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
+    
 ### Programming Languages
 - [Python](https://www.python.org/)
 - [R](https://www.r-project.org/)
