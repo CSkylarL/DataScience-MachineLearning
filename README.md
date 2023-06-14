@@ -1,5 +1,5 @@
 ![Cover Picture](./assets/images/repo_cover.png)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8035312.svg)](https://doi.org/10.5281/zenodo.8035312)
 # Introduction to Data Science and Machine Learning Repository
 
 This repository constains all projects created in the course INDE-577, which provides **Data Science and Machine Learning** concepts, techniques and hands-on experiences. The purpose of this document is to provide a brief introduction to data science and machine learning and an overview of the content included in this repository.
