@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use any codes in this repo, please cite it as below."
+authors:
+  - family-names: Li
+    given-names: Chenyang
+    orcid: https://orcid.org/0000-0001-8109-9388
+title: CSkylarL/DataScience-MachineLearning: v1.0.0
+version: v1.0.0
+date-released: 2023-06-14
